@@ -1,0 +1,6 @@
+{
+  "name": "SIMASUK - Sistem Manajemen Surat Masuk & Keluar",
+  "description": "Sistem informasi manajemen persuratan dinas lengkap dengan penomoran agenda, disposisi digital berjenjang, manajemen pengguna, verifikasi surat keluar, serta cetak lembar disposisi dan buku agenda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
